@@ -91,7 +91,8 @@ Before running this project, ensure the following are installed:
 
     Open a new terminal window to test the API
 
-    --------------------------
+
+--------------------------
 
 7. API Endpoints:
 
