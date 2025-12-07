@@ -151,7 +151,7 @@ Before running this project, ensure the following are installed:
     
 10. Conclusion:
 
-    If the item appears correctly, the application and database are working together as expected.
+    If the item appears correctly, the application and database are working together as expected.By building a FastAPI-based TODO service and running it together with a PostgreSQL database inside Docker containers, how environment variables are used for configuration, and how Docker Compose helps orchestrate multi-service environments.
 
  ----------------------------------------
 
