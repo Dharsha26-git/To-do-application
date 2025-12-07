@@ -110,7 +110,7 @@ Before running this project, ensure the following are installed:
 
     Invoke-RestMethod -Method Delete -Uri "http://localhost:8000/todos/1"
 
-    -----------------------------
+-----------------------------
 
  8. Common commands for managing containers:
     
