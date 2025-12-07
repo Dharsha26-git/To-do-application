@@ -134,6 +134,7 @@ Before running this project, ensure the following are installed:
 
     docker compose up --build
 
+
 -> In a separate terminal, check the todo list:
 
     Invoke-RestMethod -Method Get -Uri "http://localhost:8000/todos"
