@@ -28,8 +28,11 @@ The application provides a REST API with the following functionalities:
 3. Architecture:
 
 +-----------------------+        +------------------------+
+
 |      FastAPI App      | <----> |     PostgreSQL DB      |
+
 |   (Application Logic) |        |    (Persistent Data)   |
+
 +-----------------------+        +------------------------+
 
 Both services are managed and connected through Docker Compose.
