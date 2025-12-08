@@ -102,6 +102,12 @@ Before running this project, ensure the following are installed:
     -Body '{"title":"Buy milk"}' `
     -ContentType "application/json"
 
+Output we got:
+
+id  title
+
+1   Buy Milk
+
 -> Get all todos:
 
     Invoke-RestMethod -Method Get -Uri "http://localhost:8000/todos"
