@@ -104,9 +104,9 @@ Before running this project, ensure the following are installed:
 
 Output we got:
 
-id  title
+id  -  title
 
-1   Buy Milk
+1   -  Buy Milk
 
 -> Get all todos:
 
@@ -114,11 +114,11 @@ id  title
 
 Output we got:
 
-  id  title
+  id  -  title
 
-  1   Buy Milk
+  1  -   Buy Milk
 
-  2   Buy Milk
+  2   -  Buy Milk
 
 -> Delete a todo:
 
