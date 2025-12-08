@@ -106,9 +106,24 @@ Before running this project, ensure the following are installed:
 
     Invoke-RestMethod -Method Get -Uri "http://localhost:8000/todos"
 
+Output we got:
+
+  id  title
+
+  1   Buy Milk
+
+  2   Buy Milk
+
 -> Delete a todo:
 
     Invoke-RestMethod -Method Delete -Uri "http://localhost:8000/todos/1"
+
+Output we got:
+
+Message: 
+
+Todo deleted
+
 
 -----------------------------
 
