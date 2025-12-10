@@ -53,6 +53,9 @@ Both services are managed and connected through Docker Compose.
 
 ------------------------------------------
 
+![Uploading Screenshot 2025-11-26 210621.png…]()
+
+
 5. What Needs to Be Installed?
 
 Before running this project, ensure the following are installed:
